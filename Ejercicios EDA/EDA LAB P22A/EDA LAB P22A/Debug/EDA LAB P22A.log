@@ -1,0 +1,5 @@
+﻿  Source.cpp
+\\psf\home\desktop\trabajos y más\universidad\2º e\eda - 2º e\ejercicios eda\eda lab p22a\eda lab p22a\source.cpp(46): warning C4018: '<': signed/unsigned mismatch
+\\psf\home\desktop\trabajos y más\universidad\2º e\eda - 2º e\ejercicios eda\eda lab p22a\eda lab p22a\source.cpp(53): warning C4267: 'argument': conversion from 'size_t' to 'char', possible loss of data
+  EDA LAB P22A.vcxproj -> \\psf\Home\Desktop\Trabajos y más\Universidad\2º E\EDA - 2º E\Ejercicios EDA\EDA LAB P22A\Debug\EDA LAB P22A.exe
+  EDA LAB P22A.vcxproj -> \\psf\Home\Desktop\Trabajos y más\Universidad\2º E\EDA - 2º E\Ejercicios EDA\EDA LAB P22A\Debug\EDA LAB P22A.pdb (Partial PDB)

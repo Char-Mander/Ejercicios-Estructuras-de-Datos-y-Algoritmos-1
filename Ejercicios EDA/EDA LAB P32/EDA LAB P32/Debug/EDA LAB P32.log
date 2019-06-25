@@ -1,0 +1,10 @@
+﻿  Source.cpp
+\\psf\home\desktop\trabajos y más\universidad\2º e\eda - 2º e\ejercicios eda\eda lab p32\eda lab p32\source.cpp(25): warning C4018: '<': signed/unsigned mismatch
+\\psf\home\desktop\trabajos y más\universidad\2º e\eda - 2º e\ejercicios eda\eda lab p32\eda lab p32\source.cpp(24): warning C4101: 'posibles': unreferenced local variable
+\\psf\home\desktop\trabajos y más\universidad\2º e\eda - 2º e\ejercicios eda\eda lab p32\eda lab p32\source.cpp(55): warning C4018: '<': signed/unsigned mismatch
+\\psf\home\desktop\trabajos y más\universidad\2º e\eda - 2º e\ejercicios eda\eda lab p32\eda lab p32\source.cpp(56): warning C4018: '<': signed/unsigned mismatch
+\\psf\home\desktop\trabajos y más\universidad\2º e\eda - 2º e\ejercicios eda\eda lab p32\eda lab p32\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+\\psf\home\desktop\trabajos y más\universidad\2º e\eda - 2º e\ejercicios eda\eda lab p32\eda lab p32\source.cpp(63): warning C4018: '<': signed/unsigned mismatch
+\\psf\home\desktop\trabajos y más\universidad\2º e\eda - 2º e\ejercicios eda\eda lab p32\eda lab p32\source.cpp(44): warning C4101: 'sol': unreferenced local variable
+  EDA LAB P32.vcxproj -> \\psf\Home\Desktop\Trabajos y más\Universidad\2º E\EDA - 2º E\Ejercicios EDA\EDA LAB P32\Debug\EDA LAB P32.exe
+  EDA LAB P32.vcxproj -> \\psf\Home\Desktop\Trabajos y más\Universidad\2º E\EDA - 2º E\Ejercicios EDA\EDA LAB P32\Debug\EDA LAB P32.pdb (Partial PDB)
